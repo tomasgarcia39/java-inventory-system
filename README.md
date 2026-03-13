@@ -28,12 +28,13 @@ java-inventory-system/
 
 ```bash
 git clone https://github.com/tomasgarcia39/java-inventory-system.git
+---
 
-Open in Eclipse or your preferred Java IDE.
+2. **Open in Eclipse or your preferred Java IDE.**
 
-Add MySQL Connector/J to your project libraries.
+3. **Add MySQL Connector/J to your project libraries.**
 
-Create MySQL database and table:
+4. **Create MySQL database and table:**
 
 CREATE DATABASE inventory_db;
 USE inventory_db;
@@ -53,15 +54,15 @@ Usage
 
 Console Menu Options:
 
-Add Product – Enter product name, price, and stock
+1. **Add Product – Enter product name, price, and stock**
 
-View Products – List all products in inventory
+2. **View Products – List all products in inventory**
 
-Search Product – Find a product by name
+3. **Search Product – Find a product by name**
 
-Delete Product – Remove a product by ID
+4. **Delete Product – Remove a product by ID**
 
-Exit – Close the program
+5. **Exit – Close the program**
 
 Example Screenshots
 === Inventory System ===
@@ -85,11 +86,8 @@ Export inventory to CSV or Excel
 
 User authentication and role management
 
-Author
-
-Tomas Garcia
-
-Java Developer & Game Development Enthusiast
+ 
+Author: Tomas Garcia-Java Developer & Game Development Enthusiast
 
 GitHub
 
